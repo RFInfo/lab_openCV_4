@@ -1,0 +1,2 @@
+- Face detection
+- Lightest object detection
